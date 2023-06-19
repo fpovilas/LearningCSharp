@@ -42,3 +42,8 @@
 | Which of the options in question 5 is considered the most precise? | decimal | decimal |
 | What type does the literal value "8" (including the quotes) have? | string | string |
 | What type stores true or false values? | bool | bool |
+
+## Level 7
+    The Triangle Farmer
+    The Four Sisters and the Duckbear
+ 	The Dominion of Kings
