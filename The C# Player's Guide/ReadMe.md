@@ -47,3 +47,6 @@
     The Triangle Farmer
     The Four Sisters and the Duckbear
  	The Dominion of Kings
+
+## Level 8
+    The Defense of Consolas
