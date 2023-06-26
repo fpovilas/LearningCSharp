@@ -54,3 +54,7 @@
 ## Level 9
     Repairing the Clocktower
     Watchtower
+
+## Level 10
+    Buying Inventory
+    Discounted Inventory
