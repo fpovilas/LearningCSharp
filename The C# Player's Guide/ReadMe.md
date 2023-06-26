@@ -50,3 +50,7 @@
 
 ## Level 8
     The Defense of Consolas
+
+## Level 9
+    Repairing the Clocktower
+    Watchtower
