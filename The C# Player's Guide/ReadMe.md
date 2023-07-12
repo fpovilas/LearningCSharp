@@ -58,3 +58,7 @@
 ## Level 10
     Buying Inventory
     Discounted Inventory
+
+## Level 11
+    The Prototype
+    The Magic Cannon
