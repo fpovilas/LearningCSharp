@@ -1,9 +1,7 @@
 ﻿Console.Title = "The Defense of Consolas"; // Changing console window name
 
-Console.Write("Target Row? ");
-int targetRow = Convert.ToInt32(Console.ReadLine());
-Console.Write("Target Column? ");
-int targetColumn = Convert.ToInt32(Console.ReadLine());
+int targetRow = AskForNumber("Target Row? ");
+int targetColumn = AskForNumber("Target Column? ");
 
 // X = Row Y = Column
 int deployNorthX, deploySouthX;
@@ -30,3 +28,13 @@ Console.Beep(1000, 200);
 Console.Beep(800, 400);
 
 Console.ForegroundColor = ConsoleColor.Gray; // Changing color of Text
+
+
+/// <summary>
+/// Writes out given string and waits for integer input. (Improvement task from level 13)
+/// </summary>
+int AskForNumber(string v)
+{
+    Console.Write(v);
+    return Convert.ToInt32(Console.ReadLine());
+}

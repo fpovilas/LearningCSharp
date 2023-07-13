@@ -66,3 +66,10 @@
 ## Level 12
     The Replicator of D’To
     The Laws of Freach
+
+## Level 13
+    Taking a Number
+    Countdown
+    - Improved with Taking a Number functions
+    -- The Defense of Consolas
+    -- The Prototype
