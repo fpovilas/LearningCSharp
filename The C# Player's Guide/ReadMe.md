@@ -73,3 +73,17 @@
     - Improved with Taking a Number functions
     -- The Defense of Consolas
     -- The Prototype
+
+## Level 14
+    Hunting the Manticore
+    Knowledge Check - Memory
+| Question | My answer | Correct Answer |
+| --- | :---: | :---: |
+| **True/False.** You can access anything on the stack at any time. | False | False |
+| **True/False.** The stack keeps track of local variables. | True | True |
+| **True/False.** The contents of a value type can be placed on the heap. | True | True |
+| **True/False.** The contents of a value type are _always_ placed on the heap. | False | False |
+| **True/False.** The contents of reference types are _always_ placed on the heap. | True | True |
+| **True/False.** The garbage collector cleans up old, unused space on the heap and stack. | False | False |
+| **True/False.** If **a** and **b** are array variables referencing the same object, modifying **a** affects **b** as well. | True | True |
+| **True/False.** If **a** and **b** are **int**s with the same value, changing **a** will also affect **b**. | False | False |
